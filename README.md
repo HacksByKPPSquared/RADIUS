@@ -31,5 +31,5 @@ Setting up a RADIUS server ensures that your network has **secure, centralized a
 ⚡ **Pro-tip**: If you want to feel like the ultimate network overlord, nothing beats managing authentication policies from a single, powerful server. Plus, it’s way more fun than it sounds. 😏
 
 ---
-
+## 👉🏾 [Lab Walkthrough](https://github.com/Kpierre03/RADIUS/blob/main/RADIUS.md)
 Let me know if you have any questions—just don’t ask for my shared secret! 🔒
